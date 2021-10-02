@@ -5,7 +5,7 @@
 1. Download MongoDB and its binaries (You should have the `mongod` binary in your $PATH variable).
 2. Download NodeJS and NPM (You should have the `node` and `npm` binaries in your $PATH variable).
 3. Download the latest version of Python (You should have the `python3` binary in your $PATH variable).
-4. Clone the repository located at <https://github.com/Imanisima/Findings-and-Reporting-Information-Console>.
+4. Clone the repository located at <https://github.com/d0xa/Findings-and-Reporting-Information-Console>.
 5. Access the `fric-app` directory in the cloned repository.
 6. Configure the `dbPath` variable in the `mongod.conf` file located in the `config` directory. This path is where MongoDB will store its database files (BSON).
 7. Run the `launch.py` executable.
